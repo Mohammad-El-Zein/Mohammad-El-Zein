@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="454" viewBox="0 0 900 454">
+<defs>
+  <linearGradient id="acc" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#58a6ff"><animate attributeName="stop-color" values="#58a6ff;#a371f7;#3fb950;#58a6ff" dur="6s" repeatCount="indefinite"/></stop>
+    <stop offset="1" stop-color="#a371f7"><animate attributeName="stop-color" values="#a371f7;#3fb950;#58a6ff;#a371f7" dur="6s" repeatCount="indefinite"/></stop>
+  </linearGradient>
+  <style>
+    .row { animation: slide .8s cubic-bezier(.2,.8,.2,1) both; }
+    @keyframes slide { from { opacity:0; transform: translateX(-40px); } to { opacity:1; transform: translateX(0); } }
+    .cat { font: 700 13px 'Segoe UI', Inter, Helvetica, Arial, sans-serif; fill: #58a6ff; letter-spacing: 1.5px; }
+    .tech { font: 400 15px 'Segoe UI', Inter, Helvetica, Arial, sans-serif; fill: #e6edf3; }
+  </style>
+</defs>
+<g class="row" style="animation-delay:0.00s">
+  <rect x="2" y="4" width="896" height="42" rx="10" fill="#161b22" stroke="#30363d"/>
+  <rect x="2" y="4" width="5" height="42" rx="2.5" fill="url(#acc)"/>
+  <text x="26" y="30" class="cat">LANGUAGES</text>
+  <text x="215" y="30.5" class="tech">Java · TypeScript · JavaScript · Python · Kotlin · C · C++ · HTML · CSS</text>
+</g>
+<g class="row" style="animation-delay:0.12s">
+  <rect x="2" y="54" width="896" height="42" rx="10" fill="#161b22" stroke="#30363d"/>
+  <rect x="2" y="54" width="5" height="42" rx="2.5" fill="url(#acc)"/>
+  <text x="26" y="80" class="cat">FRONTEND</text>
+  <text x="215" y="80.5" class="tech">React · Next.js · Angular · Tailwind CSS · Bootstrap · Framer Motion</text>
+</g>
+<g class="row" style="animation-delay:0.24s">
+  <rect x="2" y="104" width="896" height="42" rx="10" fill="#161b22" stroke="#30363d"/>
+  <rect x="2" y="104" width="5" height="42" rx="2.5" fill="url(#acc)"/>
+  <text x="26" y="130" class="cat">BACKEND</text>
+  <text x="215" y="130.5" class="tech">Spring Boot · FastAPI · Node.js · NestJS · REST APIs · JWT</text>
+</g>
+<g class="row" style="animation-delay:0.36s">
+  <rect x="2" y="154" width="896" height="42" rx="10" fill="#161b22" stroke="#30363d"/>
+  <rect x="2" y="154" width="5" height="42" rx="2.5" fill="url(#acc)"/>
+  <text x="26" y="180" class="cat">DATABASES</text>
+  <text x="215" y="180.5" class="tech">PostgreSQL · MySQL · MongoDB</text>
+</g>
+<g class="row" style="animation-delay:0.48s">
+  <rect x="2" y="204" width="896" height="42" rx="10" fill="#161b22" stroke="#30363d"/>
+  <rect x="2" y="204" width="5" height="42" rx="2.5" fill="url(#acc)"/>
+  <text x="26" y="230" class="cat">DEVOPS &amp; CI/CD</text>
+  <text x="215" y="230.5" class="tech">Docker · Kubernetes · GitHub Actions · GitLab CI/CD · Gradle</text>
+</g>
+<g class="row" style="animation-delay:0.60s">
+  <rect x="2" y="254" width="896" height="42" rx="10" fill="#161b22" stroke="#30363d"/>
+  <rect x="2" y="254" width="5" height="42" rx="2.5" fill="url(#acc)"/>
+  <text x="26" y="280" class="cat">CLOUD &amp; HOSTING</text>
+  <text x="215" y="280.5" class="tech">Microsoft Azure · Netlify · Railway · Cloudflare · GitHub Pages</text>
+</g>
+<g class="row" style="animation-delay:0.72s">
+  <rect x="2" y="304" width="896" height="42" rx="10" fill="#161b22" stroke="#30363d"/>
+  <rect x="2" y="304" width="5" height="42" rx="2.5" fill="url(#acc)"/>
+  <text x="26" y="330" class="cat">AI</text>
+  <text x="215" y="330.5" class="tech">Anthropic API · LLM Integration · AI-powered Web Features</text>
+</g>
+<g class="row" style="animation-delay:0.84s">
+  <rect x="2" y="354" width="896" height="42" rx="10" fill="#161b22" stroke="#30363d"/>
+  <rect x="2" y="354" width="5" height="42" rx="2.5" fill="url(#acc)"/>
+  <text x="26" y="380" class="cat">TOOLS</text>
+  <text x="215" y="380.5" class="tech">Git · GitHub · GitLab · Postman · IntelliJ IDEA · VS Code</text>
+</g>
+<g class="row" style="animation-delay:0.96s">
+  <rect x="2" y="404" width="896" height="42" rx="10" fill="#161b22" stroke="#30363d"/>
+  <rect x="2" y="404" width="5" height="42" rx="2.5" fill="url(#acc)"/>
+  <text x="26" y="430" class="cat">CERTIFICATION</text>
+  <text x="215" y="430.5" class="tech">Microsoft Certified: Azure Fundamentals (AZ-900)</text>
+</g>
+</svg>
