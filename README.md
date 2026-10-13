@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Mohammad El Zein – Software Engineer · DevOps · AI Engineering" />
+<img src="header.svg" width="100%" alt="Mohammad El Zein – Software Engineer · DevOps · AI Engineering" />
 
 <br/>
 
@@ -24,7 +24,7 @@ I have built a variety of websites and web applications, from a restaurant platf
 
 ## Tech Stack
 
-<img src="assets/tech-stack.svg" width="100%" alt="Tech Stack" />
+<img src="tech-stack.svg" width="100%" alt="Tech Stack" />
 
 <br/>
 
@@ -33,24 +33,24 @@ I have built a variety of websites and web applications, from a restaurant platf
 <table>
 <tr>
 <td width="50%" align="center">
-<a href="https://flavorhaus.elzein.dev"><img src="assets/flavorhaus.svg" width="100%" alt="Flavorhaus" /></a>
+<a href="https://flavorhaus.elzein.dev"><img src="flavorhaus.svg" width="100%" alt="Flavorhaus" /></a>
 <br/>
 <a href="https://flavorhaus.elzein.dev"><b>Live Demo →</b></a>
 </td>
 <td width="50%" align="center">
-<a href="https://lifedash.elzein.dev"><img src="assets/lifedash.svg" width="100%" alt="LifeDash" /></a>
+<a href="https://lifedash.elzein.dev"><img src="lifedash.svg" width="100%" alt="LifeDash" /></a>
 <br/>
 <a href="https://lifedash.elzein.dev"><b>Live Demo →</b></a> &nbsp;·&nbsp; <a href="https://github.com/Mohammad-El-Zein/lifedash"><b>Repository →</b></a>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/Mohammad-El-Zein/deployment-analyzer-User-evaluation"><img src="assets/deployment-analyzer.svg" width="100%" alt="Deployment Analyzer" /></a>
+<a href="https://github.com/Mohammad-El-Zein/deployment-analyzer-User-evaluation"><img src="deployment-analyzer.svg" width="100%" alt="Deployment Analyzer" /></a>
 <br/>
 <a href="https://github.com/Mohammad-El-Zein/deployment-analyzer-User-evaluation"><b>Repository →</b></a>
 </td>
 <td width="50%" align="center">
-<a href="https://portfolio.elzein.dev"><img src="assets/portfolio.svg" width="100%" alt="Portfolio" /></a>
+<a href="https://portfolio.elzein.dev"><img src="portfolio.svg" width="100%" alt="Portfolio" /></a>
 <br/>
 <a href="https://portfolio.elzein.dev"><b>Live Demo →</b></a>
 </td>
@@ -65,5 +65,5 @@ I'm always open to interesting projects, collaborations and job opportunities. F
 
 <div align="center">
 <br/>
-<img src="assets/footer.svg" width="100%" alt="Let's build something great together." />
+<img src="footer.svg" width="100%" alt="Let's build something great together." />
 </div>
