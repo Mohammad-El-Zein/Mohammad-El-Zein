@@ -1,169 +1,97 @@
-<!-- ===================== HEADER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Mohammad%20El%20Zein&fontSize=55&fontColor=ffffff&animation=twinkling&desc=Software%20Engineer%20%7C%20DevOps%20%7C%20AI&descSize=20&descAlignY=72" alt="Header" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&multiline=false&width=700&height=45&lines=Hi+there!+I'm+Mohammad+%F0%9F%91%8B;Full-Stack+Developer+%E2%98%95+Java+%7C+Spring+Boot;Frontend+with+React+%26+TypeScript+%E2%9A%9B%EF%B8%8F;DevOps+%F0%9F%90%B3+Docker+%7C+Kubernetes+%7C+CI%2FCD;Cloud+%E2%98%81%EF%B8%8F+Microsoft+Azure+(AZ-900);M.Sc.+Computer+Science+%40+TU+Dortmund+%F0%9F%8E%93;Open+to+full-time+roles+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<h1>Mohammad El Zein</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-el-zein1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mhmdzein70781311@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Open_to_Work-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work" />
-  <img src="https://komarev.com/ghpvc/?username=Mohammad-El-Zein&style=for-the-badge&color=36bcf7&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
+<p><b>Software Engineer &nbsp;·&nbsp; DevOps &nbsp;·&nbsp; AI Engineering</b></p>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=30&lines=Building+full-stack+web+applications;Automating+deployments+with+CI%2FCD+%26+Kubernetes;Integrating+AI+into+real-world+products" alt="Typing animation" />
 
-<!-- ===================== ABOUT ===================== -->
-## 💫 About Me
+<br/><br/>
 
-👋 Hi, I'm **Mohammad**, a Computer Science graduate (**B.Sc.**) from **TU Dortmund**, now pursuing my **Master's in Computer Science** while working as a **working student at Wilo SE**.
+<a href="https://portfolio.elzein.dev"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/mohammad-el-zein1"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
+<a href="mailto:mhmdzein70781311@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" /></a>
 
-I have built a variety of websites and web applications and have hands-on experience with **Java, JavaScript, TypeScript, React, Spring Boot, CI/CD, DevOps and AI**.
+</div>
 
-```java
-public class MohammadElZein {
+<br/>
 
-    String location   = "Dortmund, Germany 🇩🇪";
-    String education  = "B.Sc. Computer Science ✔  →  M.Sc. Computer Science @ TU Dortmund";
-    String currentJob = "Working Student @ Wilo SE – Software Product Architecture & Platform Management";
-    String[] focus    = { "Full-Stack Development", "DevOps & Cloud", "AI Engineering" };
-    String[] languages = { "German", "English" };
-    String certified  = "Microsoft Certified: Azure Fundamentals (AZ-900)";
+## About Me
 
-    boolean openToWork() {
-        return true; // full-time roles in Software, DevOps & AI Engineering 🚀
-    }
-}
-```
+Hi, I'm **Mohammad**, a Computer Science graduate (**B.Sc.**) from **TU Dortmund**, now pursuing my **Master's in Computer Science** while working as a **working student at Wilo SE** in Software Product Architecture & Platform Management.
 
----
+I have built a variety of websites and web applications, from a restaurant platform used in production to a cloud-deployed personal dashboard, and have hands-on experience with **Java, JavaScript, TypeScript, React, Spring Boot, CI/CD, DevOps and AI**.
 
-<!-- ===================== SKILLS ===================== -->
-## 🛠️ Tech Stack & Skills
+> **Currently looking for a full-time role in software, DevOps and AI engineering.**
 
-<table align="center">
-  <tr>
-    <td align="center" width="170"><b>💻 Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,py,c,cpp,html,css&theme=dark" alt="Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🎨 Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,angular,tailwind,bootstrap&theme=dark" alt="Frontend" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>⚙️ Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=spring,nodejs,nestjs,fastapi&theme=dark" alt="Backend" />
-      <img height="48" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🗄️ Databases</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="Databases" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🐳 DevOps & CI/CD</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,gitlab,gradle&theme=dark" alt="DevOps" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>☁️ Cloud & Hosting</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=azure,netlify&theme=dark" alt="Cloud" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🧰 Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode&theme=dark" alt="Tools" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🤖 AI</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=py,fastapi&theme=dark" alt="AI" />
-      &nbsp;AI-powered applications & LLM integration
-    </td>
-  </tr>
-</table>
+<br/>
 
----
+## Tech Stack
 
-<!-- ===================== PROJECTS ===================== -->
-## 🚀 Featured Projects
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | Java · TypeScript · JavaScript · Python · Kotlin · C · C++ · HTML · CSS |
+| **Frontend** | React · Next.js · Angular · Tailwind CSS · Bootstrap · Framer Motion |
+| **Backend** | Spring Boot · FastAPI · Node.js · NestJS · REST APIs · JWT |
+| **Databases** | PostgreSQL · MySQL · MongoDB |
+| **DevOps & CI/CD** | Docker · Kubernetes · GitHub Actions · GitLab CI/CD · Gradle |
+| **Cloud & Hosting** | Microsoft Azure (Container Apps, Blob Storage) · Netlify · Railway · Cloudflare · GitHub Pages |
+| **AI** | Anthropic API · LLM integration · AI-powered features in web apps |
+| **Tools** | Git · GitHub · GitLab · Postman · IntelliJ IDEA · VS Code |
+
+**Certification:** Microsoft Certified: Azure Fundamentals (AZ-900)
+
+<br/>
+
+## Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 LifeDash</h3>
-      <p>A full-stack personal life dashboard to organize everyday life in one place.</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <br/><br/>
-      <a href="https://github.com/Mohammad-El-Zein/LifeDash">➡️ View Repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🕸️ Deployment Analyzer</h3>
-      <p>Bachelor's thesis: graph-based deployment ordering in microservice architectures.</p>
-      <img src="https://img.shields.io/badge/Microservices-0A0A0A?style=flat-square" />
-      <img src="https://img.shields.io/badge/Graph_Algorithms-36BCF7?style=flat-square" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-      <br/><br/>
-      <a href="https://github.com/Mohammad-El-Zein/deployment-analyzer">➡️ View Repository</a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### Flavorhaus
+Full-stack restaurant website with online ordering, **Stripe** payments and **AI-based calorie calculation**. Sold to and used by a real restaurant.
+
+`React` `Spring Boot` `MongoDB` `Stripe` `Netlify` `Railway`
+
+[**Live Demo →**](https://flavorhaus.elzein.dev)
+
+</td>
+<td width="50%" valign="top">
+
+### LifeDash
+Personal life dashboard covering calendar, finance, fitness, habits, meal planning and job applications, with **AI-generated life insights**. Fully automated CI/CD pipeline deploying to Azure on every push.
+
+`FastAPI` `PostgreSQL` `Angular` `Tailwind` `Azure` `GitHub Actions`
+
+[**Live Demo →**](https://lifedash.elzein.dev) &nbsp;·&nbsp; [**Repository →**](https://github.com/Mohammad-El-Zein/lifedash)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Deployment Analyzer
+Bachelor's thesis: a graph-based tool that automatically determines the **deployment order of microservices**. Parses Docker Compose and Kubernetes manifests, compares five graph algorithms and visualizes dependencies.
+
+`Java 21` `Kubernetes` `Docker Compose` `Graph Algorithms` `Graphviz` `JMH`
+
+</td>
+<td width="50%" valign="top">
+
+### Portfolio
+My personal portfolio website, bilingual (DE/EN) with dark/light mode and smooth animations.
+
+`Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `GitHub Pages`
+
+[**Live Demo →**](https://portfolio.elzein.dev)
+
+</td>
+</tr>
 </table>
 
----
+<br/>
 
-<!-- ===================== STATS ===================== -->
-## 📊 GitHub Stats
+## Let's Connect
 
-<p align="center">
-  <img height="175" src="https://github-readme-stats.shion.dev/api?username=Mohammad-El-Zein&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mohammad-El-Zein&theme=tokyonight&hide_border=true&layout=compact&count_private=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mohammad-El-Zein&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-El-Zein&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
-<!-- ===================== SNAKE ===================== -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohammad-El-Zein/Mohammad-El-Zein/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohammad-El-Zein/Mohammad-El-Zein/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Mohammad-El-Zein/Mohammad-El-Zein/output/github-snake-dark.svg" />
-  </picture>
-</p>
-
----
-
-<!-- ===================== CONTACT ===================== -->
-## 🤝 Let's Connect
-
-<p align="center">
-  I'm always open to interesting projects, collaborations and job opportunities.<br/>
-  Feel free to reach out on <a href="https://www.linkedin.com/in/mohammad-el-zein1">LinkedIn</a> or via <a href="mailto:mhmdzein70781311@gmail.com">email</a>!
-</p>
-
-<!-- ===================== FOOTER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=130&section=footer" alt="Footer" />
-</p>
+I'm always open to interesting projects, collaborations and job opportunities. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/mohammad-el-zein1) or via [email](mailto:mhmdzein70781311@gmail.com).
